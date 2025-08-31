@@ -11,8 +11,8 @@
 
 ## ✨ Um pouco sobre mim
 
-- Sou **Isaque Barbosa Dias Cardoso de Oliveira**, carioca de 25 anos, apaixonado por tecnologia e inovação.  
-- Formado em **Análise e Desenvolvimento de Sistemas**, atualmente estou cursando **Sistemas de Informação** e uma **pós-graduação em Engenharia de Software**.  
+- Sou **Isaque Barbosa Dias Cardoso de Oliveira**, carioca de 26 anos, apaixonado por tecnologia e inovação.  
+- Formado em **Análise e Desenvolvimento de Sistemas**, **pós-graduado em Engenharia de Software** e atualmente cursando **Sistemas de Informação** .  
 - Estou sempre em busca de soluções que facilitem a vida das pessoas, com interesse especial em **análise de dados**, **automação de processos**, e **infraestrutura de TI**.  
 
 ---
@@ -20,7 +20,7 @@
 ## 🛠️ Tecnologias & Ferramentas  
 - **Linguagens:** Python, JavaScript, HTML/CSS  
 - **Banco de Dados:** MariaDB, MySQL  
-- **Ferramentas:** Git, AWS, GLPI  
+- **Ferramentas:** Git, AWS, GLPI, N8N
 - **Metodologias:** Scrum  
 
 ---
