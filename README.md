@@ -18,7 +18,7 @@
 ---
 
 ## 🛠️ Tecnologias & Ferramentas  
-- **Linguagens:** C#, Python, Java, JavaScript, HTML/CSS  
+- **Linguagens:** Python, JavaScript, HTML/CSS  
 - **Banco de Dados:** MariaDB, MySQL  
 - **Ferramentas:** Git, AWS, GLPI  
 - **Metodologias:** Scrum  
@@ -37,11 +37,10 @@ Minha meta é atuar na área de tecnologia, contribuindo com projetos que impact
 ---
 
 ## 📫 Contato  
-- **LinkedIn:** [isaquediasdev1999](https://www.linkedin.com/in/isaquediasdev1999)  
+- **LinkedIn:** [Isaque-Oliveira](https://linkedin.com/in/oliveira-isaque)  
 - **E-mail:** [isaquebarbosa_6@hotmail.com](mailto:isaquebarbosa_6@hotmail.com) 
 - **Currículo:** [Clique aqui para acessar meu currículo](https://drive.google.com/file/d/1P8sjJqPYiJWNhEKPyDQ_PThvciQZPfJb/view?usp=sharing) 
 
-Obrigado pela visita! 😊  
 
 
 
